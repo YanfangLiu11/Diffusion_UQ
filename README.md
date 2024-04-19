@@ -13,5 +13,14 @@ This project aims to leverage deep learning methodologies, particularly generati
 
 ## Getting Started
 
+### Running the Code
+
+To run the models, you can directly execute the Python scripts from the command line. Here is how you can do it:
+
+#### For the ELM Data Model
+Navigate to the directory containing the script and run:
+```bash
+python ELM.py
+
 
 
