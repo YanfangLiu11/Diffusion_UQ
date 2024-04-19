@@ -10,16 +10,8 @@ This project aims to leverage deep learning methodologies, particularly generati
 
 - `src/`: Contains the core Python scripts for the model and data processing.
 - `data/`: Directory for storing example datasets used by the models.
-- `results/`: Stores output from model runs, including visualizations and model checkpoints.
-- `notebooks/`: Jupyter notebooks for demonstrating model usage and tutorials.
-- `requirements.txt`: Lists all dependencies required by the project.
 
 ## Getting Started
 
-### Prerequisites
 
-Ensure you have Python 3.x installed on your system. You can install all required packages using:
-
-```bash
-pip install -r requirements.txt
 
