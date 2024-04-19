@@ -21,6 +21,13 @@ To run the models, you can directly execute the Python scripts from the command 
 Navigate to the directory containing the script and run:
 ```bash
 python ELM.py
+```
 
+Before running the scripts, ensure you specify the correct paths to your data files in the scripts. For example, in ELM.py, set the data path as follows:
+
+```
+file_path = '/path/to/your/data/'
+data = np.loadtxt(os.path.join(file_path, 'your_data_file.dat'))
+```
 
 
