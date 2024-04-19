@@ -4,4 +4,5 @@ This directory contains all the Python scripts necessary to run the models descr
 
 - `ELM.py`: Processes ELM data and applies the generative model.
 - `Bimodal.py`: Handles the generation and processing of bimodal distribution data.
+- `mat_plot.m`: MATLAB code to visual the results of Bimodal.
 
