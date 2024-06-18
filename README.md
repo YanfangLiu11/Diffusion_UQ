@@ -1,4 +1,5 @@
-10.5281/zenodo.12110816
+[![DOI](https://zenodo.org/badge/788734734.svg)](https://zenodo.org/doi/10.5281/zenodo.12110815)
+
 # Diffusion Uncertainty Quantification
 
 This repository contains the implementation of a Conditional Generative Model developed to address specific challenges in uncertainty quantification using diffusion processes.
